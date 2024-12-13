@@ -55,6 +55,7 @@ body{
     height: 500px;
     background-color: white;
     border-radius:7px ;
+    
 }
 .b1{ 
     margin-top: 10px;
@@ -98,6 +99,7 @@ margin-top: 30px;
     height: 400px;
     margin-top: 30px;
     justify-content: space-around ;
+    margin-bottom: 70px;
    
     
 }
@@ -108,4 +110,45 @@ margin-top: 30px;
    
 
 }
+.cont{
+    width:90% ;
+    background-color: gray;
+    margin-top: 50px;
+    margin:auto;
+    height: 400px;
 
+}
+.end{
+    display: flex;
+    margin-top: 40px;
+
+
+}
+.title{
+    color: gainsboro;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: larger;
+    
+    
+
+}
+.ll{
+    font-weight: lighter;
+    color: white;
+    list-style-type: none;
+   
+}
+.li{
+    margin-bottom: 5px;
+}
+   
+.column-end{
+    width: 30%;
+}
+
+.lin{
+color: white;
+text-decoration: none;
+}
