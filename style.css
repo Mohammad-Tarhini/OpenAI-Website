@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+
+}
+.top{
+     margin-top:15px ;
+     margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+
+
+}
+.t0{
+    margin-left: 5%;
+    text-decoration: none;
+    font-family: Söhne, sans-serif;
+    font-size: small;
+    color: white;
+}
+.t1{
+    margin-left: 25%;
+    text-decoration: none;
+    font-family: Söhne, sans-serif;
+    font-size: small;
+    color: white;
+}
+.t2{
+    margin-left: 2%;
+    text-decoration: none;
+    font-family: Söhne, sans-serif;
+    font-size: small;
+    color: white;
+}
+.t3{
+    margin-left:2% ;
+    text-decoration: none;
+    font-family: Söhne, sans-serif;
+    font-size: small;
+    color: white;
+}
+.t4{
+    margin-left: 2%;
+    text-decoration: none;
+    font-family: Söhne, sans-serif;
+    font-size: small;
+    color: white;
+}
+.tend{
+    position: absolute;  
+    right: 5%; 
+}
+.vv{
+    margin: auto;
+    width: 92%;
+    height: 500px;
+    background-color: white;
+    border-radius:7px ;
+}
+.b1{ 
+    margin-top: 10px;
+    text-align: center;
+}
+.b11 , .b12 , .b13 , .b14 {
+
+background-color: gray;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
+.ad{
+    margin-bottom: 50px;
+ display: flex;
+color: white;
+margin-top: 30px;
+
+}
+.ad1{
+    
+    position: absolute;
+    left: 2%;
+}
+.ad2{
+    position: absolute;
+    
+
+    right: 2%;
+    width: 10px;
+}
+.ad3{
+    position: absolute;
+   
+    right: 8%;
+    width: 10px;
+
+}
+.container{
+    display: flex;
+    height: 400px;
+    margin-top: 30px;
+    justify-content: space-around ;
+   
+    
+}
+.conim{
+    margin: 10px;
+    width:350px ;
+    
+   
+
+}
+
